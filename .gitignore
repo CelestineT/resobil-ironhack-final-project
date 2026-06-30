@@ -1,0 +1,8 @@
+.env
+*.log
+logs/
+data/raw/*.csv
+__pycache__/
+*.pyc
+.venv/
+bigquery-key.json
