@@ -2,6 +2,7 @@
 *.log
 logs/
 data/raw/*.csv
+data/external/*.csv 
 __pycache__/
 *.pyc
 .venv/
