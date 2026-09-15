@@ -1,0 +1,24 @@
+type_de_cultures,nb_records,total_recolte_sacs,avg_recolte_sacs,total_revenus_fcfa
+"cacao, ignames, oignons",1,8.00,8.00,2880000.80
+"cacao, manioc, arachides, ignames",1,7.50,7.50,1878000.00
+"manioc, cacao",2,0.80,0.40,230400.00
+mais,6,3.30,0.55,58600.00
+"mais cacao",1,1.10,1.10,57000.00
+cacao,1,0.70,0.70,50000.00
+"mais, manioc, cacao, arachides",2,2.70,1.35,32500.00
+"manioc, mais, arachides, ignames",1,0.50,0.50,12000.00
+"mais, manioc, cacao, piment, gombo, verger, arachides, maraicheres",1,0.20,0.20,10500.00
+"arachides, oignons",1,0.10,0.10,9000.00
+"autres du riz",1,0.20,0.20,6000.00
+"mais, manioc, cacao",1,1.00,1.00,5000.00
+"mais, manioc, transformation, arachides",1,0.20,0.20,3000.00
+legumes,1,10.00,10.00,50.00
+"condiment vert",1,20.00,20.00,40.00
+"cacao, mais",1,0.10,0.10,0.00
+"mais, manioc",1,0.30,0.30,0.00
+"mais, manioc, arachides",1,0.60,0.60,0.00
+"mais, manioc, cacao, gombo, arachides, piment",1,0.00,0.00,0.00
+"mais, manioc, ignames , oignons",1,0.10,0.10,0.00
+"mais, manioc, arachides, plantain, macabo, oignons",1,0.30,0.30,0.00
+"gombo,mais, manioc",2,0.00,0.00,0.00
+"gombo,mais, piment",1,0.00,0.00,0.00

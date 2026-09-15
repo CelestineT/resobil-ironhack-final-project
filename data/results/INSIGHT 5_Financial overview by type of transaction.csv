@@ -1,0 +1,6 @@
+type_versement,nb_transactions,total_amount_fcfa,avg_amount_fcfa,first_transaction,last_transaction
+don,29,7297700.00,251644.83,2024-01-23,2026-02-15
+subvention,5,3966700.00,793340.00,2024-03-18,2025-04-04
+remboursement,21,1726800.00,82228.57,2024-01-05,2026-05-27
+cotisation,38,996100.00,26213.16,2024-01-04,2026-05-30
+autre,7,506900.00,72414.29,2024-03-19,2026-03-31
